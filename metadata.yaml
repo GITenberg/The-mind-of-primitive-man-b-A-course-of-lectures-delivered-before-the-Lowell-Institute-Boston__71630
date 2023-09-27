@@ -1,0 +1,33 @@
+_repo: The-mind-of-primitive-man-b-A-course-of-lectures-delivered-before-the-Lowell-Institute-Boston__71630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boas, Franz
+    alias: Boaz, Franz
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '40195'
+    url: http://www.gutenberg.org/2009/agents/40195
+    wikipedia: https://en.wikipedia.org/wiki/Franz_Boas
+description: ''
+gutenberg_issued: '2023-09-13'
+identifiers:
+  gutenberg: '71630'
+language: en
+pgterms:marc904: https://archive.org/details/mindofprimitivem0000fran
+pgterms:marc905: 20230411090208boas
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Gísli Valgeirsson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Macmillan Company, $c1911, pubdate 1911, copyright
+  1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The mind of primitive man : $b A course of lectures delivered before the Lowell
+  Institute, Boston, Mass., and the National University of Mexico, 1910-1911'
+url: http://www.gutenberg.org/ebooks/71630
