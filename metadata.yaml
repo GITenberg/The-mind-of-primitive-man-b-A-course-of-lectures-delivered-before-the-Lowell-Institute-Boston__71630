@@ -1,5 +1,8 @@
 _repo: The-mind-of-primitive-man-b-A-course-of-lectures-delivered-before-the-Lowell-Institute-Boston__71630
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71630-h/images/cover.jpg
 creator:
   author:
     agent_name: Boas, Franz
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40195
     wikipedia: https://en.wikipedia.org/wiki/Franz_Boas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71630#The-mind-of-primitive-man-b-A-course-of-lectures-delivered-before-the-Lowell-Institute-Boston_
 gutenberg_issued: '2023-09-13'
 identifiers:
   gutenberg: '71630'
